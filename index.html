@@ -13,7 +13,7 @@
 
 <title>Hello, welcome to my website!</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/darkly.min.css" rel="stylesheet" />
@@ -143,11 +143,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -176,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -185,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -243,7 +240,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Homepage of Rupam Bhattacharyya</a>
+      <a class="navbar-brand" href="index.html">Nazmul Hossain</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -278,25 +275,25 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:rupamb@umich.edu">
+  <a href="nazmul.data16@gmail.com">
     <span class="fa fa-envelope-o"></span>
      
   </a>
 </li>
 <li>
-  <a href="https://github.com/rupambh">
+  <a href="https://github.com/Nazmul9894">
     <span class="fa fa-github"></span>
      
   </a>
 </li>
 <li>
-  <a href="https://www.linkedin.com/in/rupam2016bhattacharyya/">
+  <a href="https://www.linkedin.com/in/nazmul-hossain98">
     <span class="fa fa-linkedin"></span>
      
   </a>
 </li>
 <li>
-  <a href="https://drive.google.com/file/d/1EaBT63r_Bf7c6FvuQL7TphOHW0GLYQit/view?usp=sharing">CV</a>
+  <a href="https://drive.google.com/file/d/13CB0IrpY9-GIH-EASHimA5OC9XUgSTPy/view?usp=sharing">CV</a>
 </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -313,31 +310,28 @@ $(document).ready(function () {
 
 
 <p><br></p>
-<p><img src="Picture_LR.jpg" width="50%" style="display: block; margin: auto;" /></p>
-<p><br></p>
-<p>Hi! I am Rupam Bhattacharyya. I am a PhD candidate at the <a
-href="https://sph.umich.edu/biostat/">Department of Biostatistics,
-University of Michigan</a>. I work as a Graduate Student Research
-Assistant in the <a href="http://bayesrx.com/">BayesRx Research
-Group</a> led by <a
-href="https://sph.umich.edu/faculty-profiles/baladandayuthapani-veerabhadran.html">Prof. Veerabhadran
-Baladandayuthapani</a>, who is also my doctoral advisor, jointly with <a
-href="https://sph.umich.edu/faculty-profiles/henderson-nicholas.html">Prof. Nicholas
-Henderson</a>. My research primarily focuses on precision oncology,
-epidemiological modeling, and Bayesian statistics, alongside other
-avenues of Biostatistics.</p>
-<p>Born in the serene city of <a
-href="https://en.wikipedia.org/wiki/Krishnanagar,_Nadia">Krishnanagar</a>
-in West Bengal, India, I spent the larger part of my childhood in the
-nearby town of <a
-href="https://en.wikipedia.org/wiki/Shantipur">Santipur</a>, where I did
-my schooling from <a
-href="https://www.facebook.com/smhs.santipur/">Shishu Kakali Primary
-School</a> and <a
-href="https://www.facebook.com/smhs.santipur/">Santipur Municipal High
-School</a>. I then joined the <a href="https://www.isical.ac.in/">Indian
-Statistical Institute, Kolkata</a> to get my bachelor’s and master’s
-degrees in statistics.</p>
+<p><img src="Statistics_Data_Science.png" width="50%" style="display: block; margin: auto;" /></p>
+<p><br> Hi! I have completed my bachelor in Statistics and looking for a
+Ph.D. position. Currently, I am teaching Categorical Data Analysis
+course, and “Time Series and Biostatistics” lab classes to a group of
+young statisticians in the Statistics Department, primarily fourth-year
+undergrads and also working on “epidemiology and associated risk factors
+with diabetes among the elderly people in Bangladesh: A mixed method
+approach” with [Mohammad M. Rahman] (<a
+href="https://scholar.google.com/citations?user=IMj8eEcAAAAJ"
+class="uri">https://scholar.google.com/citations?user=IMj8eEcAAAAJ</a>).</p>
+<p>Born in the bucolic countryside of <a
+href="https://en.wikipedia.org/wiki/Magura_District">Magura</a> Khulna,
+Bangladesh, I spent the larger part of my childhood at Nohata nearby of
+<a
+href="https://en.wikipedia.org/wiki/Mohammadpur_Upazila">Mohammadpur</a>,
+where I did my schooling from <a
+href="https://nohataranipatitapabanisecondaryschool.jessoreboard.gov.bd/">Nohata
+Rani Patit Paboni High School</a> and college from <a
+href="https://www.bafsd.edu.bd/">BAF Shaheen College Dhaka</a>. I then
+joined the <a href="https://7college.du.ac.bd/">Government Titumir
+College, University of Dhaka</a> to get my bachelor’s degree in
+statistics.</p>
 <p>To know more about me, please visit the other corners of this
 website!</p>
 

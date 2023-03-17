@@ -5,13 +5,12 @@ title: "Hello, welcome to my website!"
 <br>
 
 ```{r out.width = "50%", fig.align = "center", echo = FALSE}
-knitr::include_graphics("Picture_LR.jpg")
+knitr::include_graphics("Statistics_Data_Science.png")
 ```
 
 <br>
+Hi! I have completed my bachelor in Statistics and looking for a Ph.D. position. Currently, I am teaching Categorical Data Analysis course, and "Time Series and Biostatistics" lab classes to a group of young statisticians in the Statistics Department, primarily fourth-year undergrads and also working on "epidemiology and associated risk factors with diabetes among the elderly people in Bangladesh: A mixed method approach" with [Mohammad M. Rahman] (https://scholar.google.com/citations?user=IMj8eEcAAAAJ).
 
-Hi! I am Rupam Bhattacharyya. I am a PhD candidate at the [Department of Biostatistics, University of Michigan](https://sph.umich.edu/biostat/). I work as a Graduate Student Research Assistant in the [BayesRx Research Group](http://bayesrx.com/) led by [Prof. Veerabhadran Baladandayuthapani](https://sph.umich.edu/faculty-profiles/baladandayuthapani-veerabhadran.html), who is also my doctoral advisor, jointly with [Prof. Nicholas Henderson](https://sph.umich.edu/faculty-profiles/henderson-nicholas.html). My research primarily focuses on precision oncology, epidemiological modeling, and Bayesian statistics, alongside other avenues of Biostatistics.
-
-Born in the serene city of [Krishnanagar](https://en.wikipedia.org/wiki/Krishnanagar,_Nadia) in West Bengal, India, I spent the larger part of my childhood in the nearby town of [Santipur](https://en.wikipedia.org/wiki/Shantipur), where I did my schooling from [Shishu Kakali Primary School](https://www.facebook.com/smhs.santipur/) and [Santipur Municipal High School](https://www.facebook.com/smhs.santipur/). I then joined the [Indian Statistical Institute, Kolkata](https://www.isical.ac.in/) to get my bachelor's and master's degrees in statistics.
+Born in the bucolic countryside of [Magura](https://en.wikipedia.org/wiki/Magura_District)  Khulna, Bangladesh, I spent the larger part of my childhood at Nohata nearby of [Mohammadpur](https://en.wikipedia.org/wiki/Mohammadpur_Upazila), where I did my schooling from [Nohata Rani Patit Paboni High School](https://nohataranipatitapabanisecondaryschool.jessoreboard.gov.bd/) and college from [BAF Shaheen College Dhaka](https://www.bafsd.edu.bd/). I then joined the [Government Titumir College, University of Dhaka](https://7college.du.ac.bd/) to get my bachelor's degree in statistics.
 
 To know more about me, please visit the other corners of this website!
