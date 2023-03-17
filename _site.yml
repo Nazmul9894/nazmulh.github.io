@@ -1,7 +1,7 @@
-name: "Rupam Bhattacharyya"                                # CHANGE HERE 
+name: "Nazmul Hossain"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Homepage of Rupam Bhattacharyya"                             # CHANGE HERE 
+  title: "Nazmul Hossain"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
@@ -22,13 +22,13 @@ navbar:
 #     href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - icon: fa-envelope-o
-      href: mailto:rupamb@umich.edu                    # CHANGE HERE 
+      href: nazmul.data16@gmail.com                    # CHANGE HERE 
     - icon: fa-github
-      href: https://github.com/rupambh       # CHANGE HERE 
+      href: https://github.com/Nazmul9894       # CHANGE HERE 
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/rupam2016bhattacharyya/
+      href: https://www.linkedin.com/in/nazmul-hossain98
     - text: CV
-      href: https://drive.google.com/file/d/1EaBT63r_Bf7c6FvuQL7TphOHW0GLYQit/view?usp=sharing
+      href: https://drive.google.com/file/d/13CB0IrpY9-GIH-EASHimA5OC9XUgSTPy/view?usp=sharing
 output:
   html_document:
     theme: darkly

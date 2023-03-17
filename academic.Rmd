@@ -10,14 +10,11 @@ knitr::include_graphics("Convocation.jpg")
 
 <br>
 
-Here is an overview of my academic career and teaching activities. For more details on these, please take a look at my [CV](https://drive.google.com/file/d/1EaBT63r_Bf7c6FvuQL7TphOHW0GLYQit/view?usp=sharing).
+Here is an overview of my academic career and teaching activities. For more details on these, please take a look at my [CV](https://drive.google.com/file/d/13CB0IrpY9-GIH-EASHimA5OC9XUgSTPy/view?usp=sharing).
 
 ## Education
 
-- **PhD Biostatistics**, University of Michigan, 2018 - Present.
-- **Master of Statistics**, Indian Statistical Institute Kolkata, 2016-2018.
-  - Specialization: Applied Statistics, Biostatistics track.
-- **Bachelor of Statistics** (Hons.), Indian Statistical Institute Kolkata, 2013-2016.
+- **Bachelor of Statistics** (Hons.), Government Titumir College, University of Dhaka; 2018-2022.
 
 ## Teaching
 
