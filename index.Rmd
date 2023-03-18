@@ -5,11 +5,11 @@ title: "Hello, welcome to my website!"
 <br>
 
 ```{r out.width = "50%", fig.align = "center", echo = FALSE}
-knitr::include_graphics("statistics.jpg")
+knitr::include_graphics("statistics_data_science.png")
 ```
 
 <br>
-Hi! I have completed my bachelor in Statistics and looking for a Ph.D. position. Currently, I am teaching Categorical Data Analysis course, and "Time Series and Biostatistics" lab classes to a group of young statisticians in the Statistics Department, primarily fourth-year undergrads and also working on "epidemiology and associated risk factors with diabetes among the elderly people in Bangladesh: A mixed method approach" with [Mohammad M. Rahman] (https://scholar.google.com/citations?user=IMj8eEcAAAAJ).
+Hi! I have completed my bachelor in Statistics and looking for a Ph.D. position. Currently, I am teaching Categorical Data Analysis course, and "Time Series and Biostatistics" lab classes to a group of young statisticians in the Statistics Department, primarily fourth-year undergrads and also working on "epidemiology and associated risk factors with diabetes among the elderly people in Bangladesh: A mixed method approach" with [Mohammad M. Rahman](https://scholar.google.com/citations?user=IMj8eEcAAAAJ).
 <<<<<<< HEAD
 =======
 Current Research Interest: Machine Learning, Bayesian Deep Learning, Biostatistics, Biomedical Imaging, High Dimensional Data Analysis.
