@@ -4,12 +4,12 @@ title: "Hello, welcome to my website!"
 
 <br>
 
-```{r out.width = "40%", fig.align = "center", echo = FALSE}
+```{r out.width = "30%", fig.align = "center", echo = FALSE}
 knitr::include_graphics("statistics_data_science.png")
 ```
 
 <br>
-Hi! I have completed my bachelor in Statistics and looking for a Ph.D. position. Currently, I am teaching Categorical Data Analysis course, and "Time Series and Biostatistics" lab classes to a group of young statisticians in the Statistics Department, primarily fourth-year undergraduates.
+Hi! I have completed my bachelor in Statistics and did research internship for three months in the Health Systems & Population Studies Division (HSPSD) at icddr,b. Currently, I am teaching Categorical Data Analysis course, and "Time Series and Biostatistics" lab classes to a group of young statisticians in the Statistics Department, primarily fourth-year undergraduates.
 
 Born in the bucolic countryside of [Magura](https://en.wikipedia.org/wiki/Magura_District)  Khulna, Bangladesh, I spent the larger part of my childhood at Nohata nearby of [Mohammadpur](https://en.wikipedia.org/wiki/Mohammadpur_Upazila), where I did my schooling from [Nohata Rani Patit Paboni High School](https://nohataranipatitapabanisecondaryschool.jessoreboard.gov.bd/) and college from [BAF Shaheen College Dhaka](https://www.bafsd.edu.bd/). I then joined the [Government Titumir College, University of Dhaka](https://7college.du.ac.bd/) to get my bachelor's degree in statistics.
 

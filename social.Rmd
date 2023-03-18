@@ -10,7 +10,7 @@ knitr::include_graphics("data.jpeg")
 
 <br>
 
-## Popular Science and Media Activities
+## Activities
 
 - **YouTube Tutorials**
   - Available on the [Talk to Nazmul](https://www.youtube.com/channel/UCHKMxKD5SbK9-RfcqkjfMbg).
