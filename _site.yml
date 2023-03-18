@@ -19,6 +19,8 @@ navbar:
       icon: fa-users
 #     icon: fa-rss
       href: social.html
+      
+    
 #     href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - icon: fa-envelope-o
