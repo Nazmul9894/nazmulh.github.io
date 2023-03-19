@@ -4,14 +4,48 @@ title: "Hello, welcome to my website!"
 
 <br>
 
-```{r out.width = "50%", fig.align = "center", echo = FALSE}
+```{r out.width = "30%", fig.align = "center", echo = FALSE}
 knitr::include_graphics("statistics_data_science.png")
 ```
 
-<br>
 
-Hi! I have completed my bachelor in Statistics and did research internship for three months in the Health Systems & Population Studies Division (HSPSD) at icddr,b. Currently I am teaching Categorical Data Analysis course, and "Time Series and Biostatistics" lab classes to a group of young statisticians in the Statistics Department, primarily fourth-year undergraduates.
+Hi! I have completed my Bachelor's in Statistics and did a research internship for three months in the Health Systems & Population Studies Division (HSPSD) at icddr,b. Currently, I am teaching a Categorical Data Analysis course and "Time Series and Biostatistics" lab classes to a group of young statisticians in the Statistics Department, primarily fourth-year undergraduates.
 
-Born in the bucolic countryside of [Magura](https://en.wikipedia.org/wiki/Magura_District)  Khulna, Bangladesh, I spent the larger part of my childhood at Nohata nearby of [Mohammadpur](https://en.wikipedia.org/wiki/Mohammadpur_Upazila), where I did my schooling from [Nohata Rani Patit Paboni High School](https://nohataranipatitapabanisecondaryschool.jessoreboard.gov.bd/) and college from [BAF Shaheen College Dhaka](https://www.bafsd.edu.bd/). I then joined the [Government Titumir College, University of Dhaka](https://7college.du.ac.bd/) to get my bachelor's degree in statistics.
+Born in the bucolic countryside of [Magura](https://en.wikipedia.org/wiki/Magura_District), Khulna, Bangladesh, I spent the larger part of my childhood at Nohata nearby [Mohammadpur](https://en.wikipedia.org/wiki/Mohammadpur_Upazila), where I did my schooling at [Nohata Rani Patit Paboni High School](https://nohataranipatitapabanisecondaryschool.jessoreboard.gov.bd/), and college at [BAF Shaheen College Dhaka](https://www.bafsd.edu.bd/). I then joined [Government Titumir College, University of Dhaka](https://7college.du.ac.bd/) to get my bachelor's degree in Statistics.
 
 To know more about me, please visit the other corners of this website!
+
+<br>
+
+#### Some useful link for Statistics, Machine Learning enthusiast 
+- **Recommend Reads:**
+  - [Think Stats for core statistical concepts](https://greenteapress.com/thinkstats2/html/index.html)
+  - [Think Bayes for Bayesian thinking](http://allendowney.github.io/ThinkBayes2/)
+  - [Statistical Rethinking for Bayesian Stat](https://github.com/rmcelreath/stat_rethinking_2023)
+  - [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf) 
+  - [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
+  - [An Intro to Statistical Learning](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf) 
+  - [Applied Modern Statistical Learning Techniques]() 
+  - [Time Series Analysis and its Applications with R Example](https://web.njit.edu/~wguo/Math447/Time%20Series%20Analysis%20and%20Its%20Application%20with%20R%20examples.pdf) 
+  - [Time Series Analysis With Applications in R](https://mybiostats.files.wordpress.com/2015/03/time-series-analysis-with-applications-in-r-cryer-and-chan.pdf) 
+  - [Hands-on ML in Python](https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) 
+  - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/index.html)
+  - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) 
+  - [Deep Learning](https://www.deeplearningbook.org/)  
+  - [R Tutorial](https://www.geeksforgeeks.org/r-tutorial/?ref=lbp) 
+  - [An Introduction to R](https://intro2r.com/) 
+  - [R for Data Science (2e)](https://r4ds.hadley.nz/) 
+  - [Tidy Modeling with R](https://www.tmwr.org/) 
+  - [AI Resources](https://github.com/nivu/ai_all_resources) 
+- **Recommended watches:**
+  - [15h Machine Learning](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+  - [Making Friends with ML](https://decision.substack.com/p/full-course-making-friends-with-ml)
+  - [Statistics for Data Science Basic](https://www.youtube.com/watch?v=xxpc-HPKN28)
+  - [Statistics Crash Course](https://www.youtube.com/playlist?list=PLH2l6uzC4UEW3iJO4T0qUeUEp_X-f1U7S)
+  - [Stat & ML StatQuest](https://statquest.org/video-index/) 
+  - [Stat Rethinking](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
+  - [Bayesian Inference](http://videolectures.net/mlss2011_green_bayesian/)
+  - [Quantum Machine Learning](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg)
+  - [NISS Meet-Up Recordings](https://www.niss.org/meet-recordings)
+ 
+

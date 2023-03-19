@@ -10,10 +10,10 @@ knitr::include_graphics("statistics.jpg")
 
 <br>
 
-Here is an overview of my academic career and teaching activities. For more details on these, please take a look at my [CV](https://drive.google.com/file/d/13CB0IrpY9-GIH-EASHimA5OC9XUgSTPy/view?usp=sharing).
+Here is an overview of my academic career and teaching activities. For more details on these, please take a look at my [CV](https://drive.google.com/file/d/1wdguaFQSUmfSz0rPwLgYy7aWIrWxnarT/view?usp=sharing).
 
 ### Education
-- **Higher Secondary School Certificate** (HSC) [BAF Shaheen College Dhaka](https://www.bafsd.edu.bd/); 2015-2017 
+- **Higher Secondary School Certificate** (HSC), [BAF Shaheen College Dhaka](https://www.bafsd.edu.bd/); 2015-2017 
 - **Bachelor of Statistics** (Hons.), Government Titumir College, University of Dhaka; 2018-2022.
 
 ### Teaching
