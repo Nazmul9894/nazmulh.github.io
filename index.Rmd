@@ -17,7 +17,7 @@ To know more about me, please visit the other corners of this website!
 
 <br>
 
-#### Some useful link for Statistics, Machine Learning enthusiast 
+#### Some useful links for Statistics, Machine Learning enthusiast 
 - **Recommend Reads:**
   - [Think Stats for core statistical concepts](https://greenteapress.com/thinkstats2/html/index.html)
   - [Think Bayes for Bayesian thinking](http://allendowney.github.io/ThinkBayes2/)
