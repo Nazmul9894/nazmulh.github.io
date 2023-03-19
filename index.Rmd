@@ -5,7 +5,7 @@ title: "Hello, welcome to my website!"
 <br>
 
 ```{r out.width = "30%", fig.align = "center", echo = FALSE}
-knitr::include_graphics("statistics_data_science.png")
+knitr::include_graphics("profile.png")
 ```
 
 
