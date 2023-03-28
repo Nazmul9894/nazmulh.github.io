@@ -28,7 +28,7 @@ navbar:
     - icon: fa-github
       href: https://github.com/Nazmul9894       # CHANGE HERE 
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/nazmul-hossain98
+      href: https://www.linkedin.com/in/nazmulhl
     - text: CV
       href: https://drive.google.com/file/d/1wdguaFQSUmfSz0rPwLgYy7aWIrWxnarT/view?usp=sharing
 output:
