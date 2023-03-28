@@ -30,7 +30,7 @@ navbar:
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/nazmul-hossain98
     - text: CV
-      href: https://drive.google.com/file/d/13CB0IrpY9-GIH-EASHimA5OC9XUgSTPy/view?usp=sharing
+      href: https://drive.google.com/file/d/1wdguaFQSUmfSz0rPwLgYy7aWIrWxnarT/view?usp=sharing
 output:
   html_document:
     theme: darkly
