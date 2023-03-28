@@ -4,13 +4,13 @@ title: "Beyond the numbers..."
 
 <br>
 
-| [![](data.jpeg)]()  | [![r_class.jpg](r_class.jpg)](Conducted lab classes for the fourth year students) | [![tour_cox.jpg](tour_cox.jpg)](Managed everything for 86 students for a three days long tour as a coordinator) |
+|[data.jepg](data.jpeg)  | [![r_class.jpg](r_class.jpg)](Conducted lab classes for the fourth year students) | [![tour_cox.jpg](tour_cox.jpg)](Managed everything for 86 students for a three days long tour as a coordinator) |
 |:---:|:---:|:---:|
 | Internship at icddr,b | Conducted lab classes for the fourth year students | Managed everything for 86 students for a three days long tour as a coordinator |
 
 <br>
 
-| [![data.jepg](blood_test.jpg)](Day long workshop)  | [![career_design.png](career_design.png)](career design) | [![finance.png](finance_bylc.png)](Managed everything for 86 students for a three days long tour as a coordinator) |
+| ![data.jepg](blood_test.jpg)  | [![career_design.png](career_design.png)](career design) | [![finance.png](finance_bylc.png)](Managed everything for 86 students for a three days long tour as a coordinator) |
 |:---:|:---:|:---:|
 | Tested blood group, measured blood pressure, and motivated students for donating blood in a day long workshop | Conducted an online session on 'Designing Career Strategy' and talked about the career opportunities for Statistics graduates & how it can be achieved | Learned personal finance management, how to save & where to invest |
 
