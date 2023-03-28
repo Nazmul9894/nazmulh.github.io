@@ -4,7 +4,7 @@ title: "Beyond the numbers..."
 
 <br>
 
-| ![data.jpeg](data.jpeg)  | [![r_class.jpg](r_class.jpg)](Conducted lab classes for the fourth year students) | [![tour_cox.jpg](tour_cox.jpg)](Managed everything for 86 students for a three days long tour as a coordinator) |
+| ![data.jpeg](data.jpeg)  | ![r_class.jpg](r_class.jpg) | ![tour_cox.jpg](tour_cox.jpg) |
 |:---:|:---:|:---:|
 | Internship at icddr,b | Conducted lab classes for the fourth year students | Managed everything for 86 students for a three days long tour as a coordinator |
 
