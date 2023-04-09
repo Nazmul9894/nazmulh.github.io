@@ -24,9 +24,9 @@ navbar:
 #     href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - icon: fa-envelope-o
-      href: nazmul.data16@gmail.com                    # CHANGE HERE 
+      href: mailto:nazmul.data16@gmail.com                    # CHANGE HERE 
     - icon: fa-github
-      href: https://github.com/NazmulHL       # CHANGE HERE 
+      href: https://github.com/nazmulhl       # CHANGE HERE 
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/nazmulhl
     - text: CV
