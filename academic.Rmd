@@ -9,7 +9,7 @@ knitr::include_graphics("statistics.jpg")
 ```
 
 <br>
-
+<p style="text-align: justify;">
 Here is an overview of my academic career and teaching activities. For more details on these, please take a look at my [CV](https://drive.google.com/file/d/1wdguaFQSUmfSz0rPwLgYy7aWIrWxnarT/view?usp=sharing).
 
 ### Education
@@ -21,4 +21,4 @@ Here is an overview of my academic career and teaching activities. For more deta
 - **Guest Teacher** at Government Titumir College, University of Dhaka; 2023-Present
   - Categorical Data Analysis
   - Categorical Data Analysis, Time Series, Biostatistics and Econometrics lab classes
-
+</p>
