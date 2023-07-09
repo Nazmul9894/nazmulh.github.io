@@ -5,7 +5,7 @@ title: "A few bits of my academic pursuits..."
 <br>
 
 ```{r out.width = "50%", fig.align = "center", echo = FALSE}
-knitr::include_graphics("statistics.jpg")
+knitr::include_graphics("statistics.JPG")
 ```
 
 <br>
