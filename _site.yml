@@ -26,9 +26,9 @@ navbar:
     - icon: fa-envelope-o
       href: mailto:nazmul.data16@gmail.com                    # CHANGE HERE 
     - icon: fa-github
-      href: https://github.com/nazmulhl       # CHANGE HERE 
+      href: https://github.com/NazmulHL       # CHANGE HERE 
     - icon: fa-linkedin
-      href: https://www.linkedin.com/in/nazmulhl
+      href: https://www.linkedin.com/in/nazmulhl 
     - text: CV
       href: https://drive.google.com/file/d/1wdguaFQSUmfSz0rPwLgYy7aWIrWxnarT/view?usp=sharing
 output:

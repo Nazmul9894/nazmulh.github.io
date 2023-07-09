@@ -4,11 +4,11 @@ title: "Some glimpses of my research profile..."
 
 
 <p style="text-align: justify;">
-I am working on "epidemiology and associated risk factors with diabetes among the elderly people in Bangladesh: A mixed method approach" with [Mohammad M. Rahman](https://scholar.google.com/citations?user=IMj8eEcAAAAJ).
+I am working on "epidemiology and associated risk factors with diabetes among the elderly people in Bangladesh: A mixed study design (cross-sectional and systematic review)" with [Mohammad M. Rahman](https://scholar.google.com/citations?user=IMj8eEcAAAAJ).
 
 
 
-**Skill & Expertise:** Biostatistical Modeling, Public Health Research, Demographical Modeling, Data Pre-Processing, Cleaning, and Visualization,    Categorical Data Analysis, Machine Learning, Econometrics Modeling, Time Series Modeling.
+**Skill & Expertise:** Statistical Modeling, Public Health Research, Data Pre-Processing, Cleaning, and Visualization,    Categorical Data Analysis, Machine Learning, Econometrics Modeling, Time Series Modeling.
 
 Undergraduate project: A study on the Socio-economic Condition of Undergraduate Resident Students of Government Titumir College and Factors of Preferring College Hostel
 </p>
