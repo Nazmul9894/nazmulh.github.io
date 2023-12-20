@@ -4,13 +4,8 @@ title: "A few bits of my academic pursuits..."
 
 <br>
 
-<<<<<<< HEAD
-```{r out.width = "35%", fig.align = "center", echo = FALSE}
+```{r out.width = "55%", fig.align = "center", echo = FALSE}
 knitr::include_graphics("statistics.png")
-=======
-```{r out.width = "50%", fig.align = "center", echo = FALSE}
-knitr::include_graphics("statistics.JPG")
->>>>>>> ff02ec4e674cdf8d52a551019dd58539d698f85f
 ```
 
 <br>

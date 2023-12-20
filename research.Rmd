@@ -4,8 +4,16 @@ title: "Some glimpses of my research profile..."
 
 
 <p style="text-align: justify;">
-I am working on "epidemiology and associated risk factors with diabetes among the elderly people in Bangladesh: A mixed study design (cross-sectional and systematic review)" with [Mohammad M. Rahman](https://scholar.google.com/citations?user=IMj8eEcAAAAJ).
+I am currently working on "Assessing the relationship of socio-demographic, behavioral and physiological risk factors with non-communicable diseases in Asia with 
+[Mohammad M. Rahman](https://scholar.google.com/citations?user=IMj8eEcAAAAJ).
 
+**Submitted:** 
+
+<ol>
+  <li>Prevalence of diabetes and its risk factors among older adults: A mixed study design approach. [(read preprint)](https://docs.google.com/document/d/1zfLwonpFDIzSgA3SCLuEk6qYzKW_enEC/edit?usp=sharing&ouid=102830558933589252294&rtpof=true&sd=true)</li>
+  <li>Identifying behavioural risk factors and social determinants of health of hypertension, diabetes, and hypercholesterolemia in Bangladesh: findings from the national STEPS survey 2018. [(read preprint)](https://docs.google.com/document/d/1Dw_QiuoHN4WYAxshowmcRjRzVyi__TyQ/edit?usp=sharing&ouid=102830558933589252294&rtpof=true&sd=true)</li>
+  
+</ol>
 
 
 **Skill & Expertise:** Statistical Modeling, Public Health Research, Data Pre-Processing, Cleaning, and Visualization,    Categorical Data Analysis, Machine Learning, Econometrics Modeling, Time Series Modeling.
